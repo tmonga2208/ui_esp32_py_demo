@@ -1,1 +1,1 @@
-### Mock UI for tm-player using pygame
+# Mock UI for tm-player using pygame
